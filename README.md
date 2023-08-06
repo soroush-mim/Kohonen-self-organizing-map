@@ -1,2 +1,4 @@
 # Kohonen-self-organizing-map
-an implementation of kohonen self organizing map network from scratch
+In this project, I've implemented the Kohonen SOM network from scratch using NumPy. I also used it for dimensionality reduction on yalefaces dataset.
+
+report is in persian.
